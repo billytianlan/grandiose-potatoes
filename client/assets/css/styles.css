@@ -1,0 +1,9 @@
+
+.hero-image {
+  background: url('https://images.unsplash.com/photo-1445575722865-82118e5084ff?ixlib=rb-0.3.5&q=80&fm=jpg&crop=entropy&s=ce609457becba483898e9b7a8fdaec37') no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+  height: 570px;
+}

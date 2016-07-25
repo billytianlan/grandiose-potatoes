@@ -31,7 +31,7 @@ export default class Record extends React.Component {
 
   render() {
     return (
-      <div className="col s8 offset-s2">
+      <div className="col s6 offset-s3">
 
         <br/>
         <video className={this.state.finishedRecording ? 'hide' : ''} id="gum" src={this.state.streamVidUrl} autoPlay muted width="100%"></video>
